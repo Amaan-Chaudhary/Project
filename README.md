@@ -14,4 +14,4 @@ https://youtu.be/j_pymD63k6o?si=YNgrY_7hciXg_nGT
 
 
 
-PR1 Project Work contains my Research Project Python Code
+PR1 Predict Nu file contains a part of my Research Project (Python Code)
