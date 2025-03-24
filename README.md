@@ -5,6 +5,13 @@ End-to-end Machine Learning Projects -
 2.) Building a CNN classifier using TensorFlow for MNIST Fashion Dataset
 
 
-Link to my Internship Video (YouTube) with Python Manim code -
+
+Internship Work (contains Python Code) - Developed Animated Videos using Manim Library
+
+Link to my Internship Video (YouTube) -
 
 https://youtu.be/j_pymD63k6o?si=YNgrY_7hciXg_nGT
+
+
+
+PR1 Project Work contains my Research Project Python Code
