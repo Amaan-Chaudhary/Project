@@ -6,7 +6,7 @@ End-to-end Machine Learning Projects -
 
 
 
-Internship Work (contains Python Code) - Developed Animated Videos using Manim Library
+Internship Work (contains Python Code) - Developed Animated Videos using Manim Library to teach Machine Learning
 
 Link to my Internship Video (YouTube) -
 
